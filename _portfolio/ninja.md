@@ -6,7 +6,7 @@ date: June, 26 2024
 tags: [Data visualization, GDD, DLI, DIF, VPD]
 ---
 
-![image]({{ page.img | relative_url }})
+[//]: # (![image]&#40;{{ page.img | relative_url }}&#41;)
 
-
+<img src="{{ page.img | relative_url }}" width="400" height="300" alt="description">
 
