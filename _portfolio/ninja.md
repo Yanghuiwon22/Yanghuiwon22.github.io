@@ -8,5 +8,5 @@ tags: [Data visualization, GDD, DLI, DIF, VPD]
 
 [//]: # (![image]&#40;{{ page.img | relative_url }}&#41;)
 
-<img src="{{ page.img | relative_url }}" width="400" height="300" alt="description">
+<img src="{{ page.img | relative_url }}" width="900" height="650" alt="description">
 
