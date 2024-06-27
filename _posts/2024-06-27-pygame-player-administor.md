@@ -1,7 +1,9 @@
 ---
 layout: post
-title: [chamber-sf] Player Account 와 System Administor 구분하기
-tags: [pygame, chamber-sf]
+title: [ chamber-sf ] Player Account 와 System Administor 구분하기
+feature-img: "assets/img/feature-img/player-administor.png"
+thumbnail: "assets/img/thumbnails/feature-img/player-administor.png"
+tags: [ pygame, chamber-sf ]
 categories: Demo
 ---
 
