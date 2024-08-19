@@ -1,10 +1,16 @@
----
-layout: post
-title: Lorem Ipsum
-feature-img: "assets/img/portfolio/submarine.png"
-img: "assets/img/portfolio/submarine.png"
-date: 2017-09-03
----
+[//]: # (---)
+
+[//]: # (layout: post)
+
+[//]: # (title: Lorem Ipsum)
+
+[//]: # (feature-img: "assets/img/portfolio/submarine.png")
+
+[//]: # (img: "assets/img/portfolio/submarine.png")
+
+[//]: # (date: 2017-09-03)
+
+[//]: # (---)
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
 totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
