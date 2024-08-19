@@ -9,8 +9,8 @@ tags: [selenium, streamlit, python]
 
 출장 처리할 때 필요한 여비증빙파일 자동화 사이트!!
 
-현재 구동중인 웹사이트 주소 : http://web01.taegon.kr:6800/ <br>
-만약 안된다면 깃허브 : https://github.com/Yanghuiwon22/oilprice_navermap 를 실행
+현재 구동중인 웹사이트 주소 : <a scr='http://web01.taegon.kr:6800/'>http://web01.taegon.kr:6800/ </a><br>
+만약 안된다면 깃허브 : <a src='https://github.com/Yanghuiwon22/oilprice_navermap'> https://github.com/Yanghuiwon22/oilprice_navermap </a> 를 실행
 
 ## 사용법
 1. 왕복/편도 선택 후 출발지, 경유지, 도착지를 입력한다
