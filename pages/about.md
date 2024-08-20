@@ -6,9 +6,17 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+<img src="http://yanghuiwon22.github.io/assets/img/pexels/hannan.jpg">
 
-Head over to the [theme's documentation](https://github.com/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+블로그에 오신 걸 환영합니다!! 저는 전북대학교 스마트팜학과에 재학중입니다
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+Welcome to my blog !! I am studying about agriculture engineering at Jeonbuk National University
+
+
+
+
+<h3>CONTACT</h3>
+
+<p>EMAIL : hannah4212@naver.com</p>
+<a href="https://www.instagram.com/lets._.ggo_/">INSTAGRAM</a>
+<a href="https://github.com/Yanghuiwon22">GITHUB</a>
