@@ -19,4 +19,4 @@ Welcome to my blog !! I am studying about agriculture engineering at Jeonbuk Nat
 
 <p>EMAIL : hannah4212@naver.com</p>
 <a href="https://www.instagram.com/lets._.ggo_/">INSTAGRAM</a>
-<a href="https://github.com/Yanghuiwon22">GITHUB</a>
+<a href="https://github.com/Yanghuiwon22">GITHUB <i class="fa-brands fa-github"></i></a>
