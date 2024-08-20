@@ -85,5 +85,4 @@ if self.player.pos_layer == 'mini_chamber':
 실시간 데이터가 아닐 경우, 업데이트 시간을 빨간색으로 표시하여 사용자에게 알리도록 하였다.
 
 <img src="https://Yanghuiwon22.github.io/assets/img/feature-img/2024-08-20-2.png">
-![데이터로드 시간 출력](../assets/img/feature-img/2024-08-20-2.png)
 <p style="color: royalblue">데이터 로드 시간을 출력하고 있다</p>
