@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [chamber-sf] 랜덤값 표시하기
+title: '[chamber-sf] 랜덤값 표시하기'
 tags: [chamber-sf, pygame]
 categories: Demo
 ---
