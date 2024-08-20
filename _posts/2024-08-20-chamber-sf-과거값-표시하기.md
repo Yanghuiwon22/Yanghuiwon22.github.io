@@ -1,13 +1,14 @@
 ---
 layout: post
-title: '[chamber-sf] 랜덤값 표시하기'
+title: '[chamber-sf] 과거값 표시하기'
 tags: [ chamber-sf, pygame ]
 categories: Demo
 ---
+실시간 데이터가 들어오지 않을 시, 과거 데이터를 출력해준다. 
+
 
 # 문제상황
-
-- api를 통해 **실시간 데이터가 들어오지 않을 땐** **랜덤값 출력**하도록 설정
+- api를 통해 **실시간 데이터가 들어오지 않을 땐** **과거값 출력**하도록 설정
 - **현재** 실시간데이터가 들어오고 있는지, 랜덤값이 출력되고 있는지 **알 수 없음**
 
 # 해결방안
@@ -39,7 +40,7 @@ if (datetime.now() - set_time).seconds / 60 >= 3:
     self.livedata_mini_chamber = False
 ```
 
-<img src="../assets/img/feature-img/2024-08-20-1.png">
+<img src="https://Yanghuiwon22.github.io/assets/img/feature-img/2024-08-20-1.png">
 <p style="color: royalblue">'현재 실시간 데이터가 들어오고 있지 않다 : 보여지는 데이터는 과거의 데이터이다.'가 출력되고 있다</p>
 
 ### 데이터로드 시간을 출력
@@ -83,5 +84,6 @@ if self.player.pos_layer == 'mini_chamber':
 앞에서 걸었던 조건에 방금 추가한 기능을 합쳐 코드를 작성하였다
 실시간 데이터가 아닐 경우, 업데이트 시간을 빨간색으로 표시하여 사용자에게 알리도록 하였다.
 
-<img src="../assets/img/feature-img/2024-08-20-2.png">
+<img src="https://Yanghuiwon22.github.io/assets/img/feature-img/2024-08-20-2.png">
+![데이터로드 시간 출력](../assets/img/feature-img/2024-08-20-2.png)
 <p style="color: royalblue">데이터 로드 시간을 출력하고 있다</p>
